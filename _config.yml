@@ -1,6 +1,16 @@
 title: Ankur Gupta
 logo: /assets/img/Ankur_Pic.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ankur-gupta-06404950/">LinkedIn</a> |
+  <a href="https://github.com/ankur1608/">GitHub</a>
+  
+  <br>   
+  I have overall 12+ years of IT experience. I have worked across different technologies which includes Linux OS, Cloud and Container solutions, OpenStack, kubernets, OpenShift, Data Science, Machine learning & NLP related problems.
+  Currently working with HPE from last 7 Years.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
